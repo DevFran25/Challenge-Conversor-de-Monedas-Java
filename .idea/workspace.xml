@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bb36ac7-df41-4ed2-9462-bc262e0ee5d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/GestorConversor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/App_Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/App_Conversor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/Conversor.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/Parser_Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/Parser_Json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/conversormonedas/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +44,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
